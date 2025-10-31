@@ -1,0 +1,3 @@
+FROM scratch
+ENTRYPOINT ["/rhs-deployer"]
+COPY rhs-deployer /rhs-deployer
