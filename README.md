@@ -1,9 +1,9 @@
 <div align="center">
   <br />
   <br />
-  <!-- <a href="https://dolphinnetchain.com"><img alt="Dolphinnet Chain" src="./docs/assets/dolphinnetchain.svg" width=600></a> -->
+  <!-- <a href="https://chain.dolphinode.world"><img alt="Dolphinet" src="./docs/assets/dolphinetchain.svg" width=600></a> -->
   <br />
-  <h3><a href="https://dolphinnetchain.com">Dolphinnet Chain</a> is Ethereum, scaled.</h3>
+  <h3><a href="https://chain.dolphinode.world">Dolphinet</a> is scaled, EVM Compatible.</h3>
   <br />
 </div>
 
@@ -11,7 +11,7 @@
 
 <!--TOC-->
 
-- [What is Dolphinnet Chain?](#what-is-dolphinnet-chain)
+- [What is Dolphinet?](#what-is-dolphinet)
 - [Documentation](#documentation)
 - [Specification](#specification)
 - [Community](#community)
@@ -26,9 +26,9 @@
 
 <!--TOC-->
 
-## What is dolphinnet Chain?
+## What is dolphinet?
 
-[dolphinnetchain](https://www.dolphinnetchain.com/) is a project dedicated to scaling Ethereum's technology and expanding its ability to coordinate people from across the world to build effective decentralized economies and governance systems. The [dolphinnetchain Collective](https://www.dolphinnetchain.com/vision) builds open-source software that powers scalable blockchains and aims to address key governance and economic challenges in the wider Ethereum ecosystem. dolphinnetchain operates on the principle of **impact=profit**, the idea that individuals who positively impact the Collective should be proportionally rewarded with profit. **Change the incentives and you change the world.**
+[dolphinetchain](https://chain.dolphinode.world/) is a project dedicated to scaling Ethereum's technology and expanding its ability to coordinate people from across the world to build effective decentralized economies and governance systems. The [dolphinnetchain Collective](https://www.dolphinnetchain.com/vision) builds open-source software that powers scalable blockchains and aims to address key governance and economic challenges in the wider Ethereum ecosystem. dolphinnetchain operates on the principle of **impact=profit**, the idea that individuals who positively impact the Collective should be proportionally rewarded with profit. **Change the incentives and you change the world.**
 
 ## Documentation
 
