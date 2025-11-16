@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-  <a href="https://github.com/dolphinnet-labs/dolphinnet">
+  <a href="https://github.com/Dolphinet-labs/Dolphinet">
     <img alt="Dolphinet Logo" src="./docs/assets/dolphinet.svg" width="600" />
   </a>
   <br />
@@ -11,17 +11,17 @@
   <p><strong>🚀 High-Performance, EVM-Compatible Blockchain</strong></p>
 
   <p>
-    <a href="https://github.com/dolphinnet-labs/dolphinnet/actions/workflows/ci.yml">
-      <img alt="CI Status" src="https://github.com/dolphinnet-labs/dolphinnet/actions/workflows/ci.yml/badge.svg" />
+    <a href="https://github.com/Dolphinet-labs/Dolphinet/actions/workflows/ci.yml">
+      <img alt="CI Status" src="https://github.com/Dolphinet-labs/Dolphinet/actions/workflows/ci.yml/badge.svg" />
     </a>
-    <a href="https://goreportcard.com/report/github.com/dolphinnet-labs/dolphinnet">
-      <img alt="Go Report Card" src="https://goreportcard.com/badge/github.com/dolphinnet-labs/dolphinnet" />
+    <a href="https://goreportcard.com/report/github.com/Dolphinet-labs/Dolphinet">
+      <img alt="Go Report Card" src="https://goreportcard.com/badge/github.com/Dolphinet-labs/Dolphinet" />
     </a>
-    <a href="https://codecov.io/gh/dolphinnet-labs/dolphinnet">
-      <img alt="codecov" src="https://codecov.io/gh/dolphinnet-labs/dolphinnet/branch/main/graph/badge.svg" />
+    <a href="https://codecov.io/gh/Dolphinet-labs/Dolphinet">
+      <img alt="codecov" src="https://codecov.io/gh/Dolphinet-labs/Dolphinet/branch/main/graph/badge.svg" />
     </a>
-    <a href="https://github.com/dolphinnet-labs/dolphinnet/blob/main/LICENSE">
-      <img alt="License" src="https://img.shields.io/github/license/dolphinnet-labs/dolphinnet" />
+    <a href="https://github.com/Dolphinet-labs/Dolphinet/blob/main/LICENSE">
+      <img alt="License" src="https://img.shields.io/github/license/Dolphinet-labs/Dolphinet" />
     </a>
     <a href="https://discord.gg/dolphinet">
       <img alt="Discord" src="https://img.shields.io/discord/1234567890?label=Discord&logo=discord" />
@@ -63,7 +63,7 @@
 ### Clone Repository
 
 ```bash
-git clone https://github.com/dolphinnet-labs/dolphinnet.git
+git clone https://github.com/Dolphinet-labs/Dolphinet.git
 cd dolphinnet
 ```
 
@@ -134,7 +134,7 @@ Dolphinet adopts a modular architecture composed of multiple core components:
 
 - [**📖 Official Documentation**](https://docs.dolphinet.io) - Complete user and developer guide
 - [**🏗️ Architecture Documentation**](docs/) - Technical specifications and design documents
-- [**🔧 API Documentation**](https://pkg.go.dev/github.com/dolphinnet-labs/dolphinnet) - Go package documentation
+- [**🔧 API Documentation**](https://pkg.go.dev/github.com/Dolphinet-labs/Dolphinet) - Go package documentation
 - [**📋 Contributing Guide**](CONTRIBUTING.md) - How to contribute to the project
 
 ### Quick Links
@@ -176,9 +176,9 @@ just fmt
 
 ### Finding Tasks
 
-- [**🐛 Good First Issues**](https://github.com/dolphinnet-labs/dolphinnet/issues?q=is:open+is:issue+label:D-good-first-issue)
-- [**📝 Documentation Improvements**](https://github.com/dolphinnet-labs/dolphinnet/issues?q=is:open+is:issue+label:D-documentation)
-- [**🔧 Feature Requests**](https://github.com/dolphinnet-labs/dolphinnet/issues?q=is:open+is:issue+label:D-feature-request)
+- [**🐛 Good First Issues**](https://github.com/Dolphinet-labs/Dolphinet/issues?q=is:open+is:issue+label:D-good-first-issue)
+- [**📝 Documentation Improvements**](https://github.com/Dolphinet-labs/Dolphinet/issues?q=is:open+is:issue+label:D-documentation)
+- [**🔧 Feature Requests**](https://github.com/Dolphinet-labs/Dolphinet/issues?q=is:open+is:issue+label:D-feature-request)
 
 ## 🌐 Community
 
@@ -204,7 +204,7 @@ This project is licensed under the [MIT License](LICENSE). For more information,
 <div align="center">
   <p><strong>Built by <a href="https://dolphinnet-labs.com">Dolphinet Labs</a></strong></p>
   <p>
-    <a href="https://github.com/dolphinnet-labs/dolphinnet">GitHub</a> •
+    <a href="https://github.com/Dolphinet-labs/Dolphinet">GitHub</a> •
     <a href="https://docs.dolphinet.io">Documentation</a> •
     <a href="https://discord.gg/dolphinet">Discord</a> •
     <a href="https://twitter.com/dolphinet">Twitter</a>

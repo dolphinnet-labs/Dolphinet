@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-  <a href="https://github.com/dolphinnet-labs/dolphinnet">
+  <a href="https://github.com/Dolphinet-labs/Dolphinet">
     <img alt="Dolphinet Logo" src="./docs/assets/dolphinet.svg" width="600" />
   </a>
   <br />
@@ -11,17 +11,17 @@
   <p><strong>🚀 高性能、EVM兼容的区块链</strong></p>
 
   <p>
-    <a href="https://github.com/dolphinnet-labs/dolphinnet/actions/workflows/ci.yml">
-      <img alt="CI Status" src="https://github.com/dolphinnet-labs/dolphinnet/actions/workflows/ci.yml/badge.svg" />
+    <a href="https://github.com/Dolphinet-labs/Dolphinet/actions/workflows/ci.yml">
+      <img alt="CI Status" src="https://github.com/Dolphinet-labs/Dolphinet/actions/workflows/ci.yml/badge.svg" />
     </a>
-    <a href="https://goreportcard.com/report/github.com/dolphinnet-labs/dolphinnet">
-      <img alt="Go Report Card" src="https://goreportcard.com/badge/github.com/dolphinnet-labs/dolphinnet" />
+    <a href="https://goreportcard.com/report/github.com/Dolphinet-labs/Dolphinet">
+      <img alt="Go Report Card" src="https://goreportcard.com/badge/github.com/Dolphinet-labs/Dolphinet" />
     </a>
-    <a href="https://codecov.io/gh/dolphinnet-labs/dolphinnet">
-      <img alt="codecov" src="https://codecov.io/gh/dolphinnet-labs/dolphinnet/branch/main/graph/badge.svg" />
+    <a href="https://codecov.io/gh/Dolphinet-labs/Dolphinet">
+      <img alt="codecov" src="https://codecov.io/gh/Dolphinet-labs/Dolphinet/branch/main/graph/badge.svg" />
     </a>
-    <a href="https://github.com/dolphinnet-labs/dolphinnet/blob/main/LICENSE">
-      <img alt="License" src="https://img.shields.io/github/license/dolphinnet-labs/dolphinnet" />
+    <a href="https://github.com/Dolphinet-labs/Dolphinet/blob/main/LICENSE">
+      <img alt="License" src="https://img.shields.io/github/license/Dolphinet-labs/Dolphinet" />
     </a>
     <a href="https://discord.gg/dolphinet">
       <img alt="Discord" src="https://img.shields.io/discord/1234567890?label=Discord&logo=discord" />
@@ -63,7 +63,7 @@
 ### 克隆仓库
 
 ```bash
-git clone https://github.com/dolphinnet-labs/dolphinnet.git
+git clone https://github.com/Dolphinet-labs/Dolphinet.git
 cd dolphinnet
 ```
 
@@ -134,7 +134,7 @@ Dolphinet 采用了模块化架构，由多个核心组件组成：
 
 - [**📖 官方文档**](https://docs.dolphinet.io) - 完整的用户和开发者指南
 - [**🏗️ 架构文档**](docs/) - 技术规范和设计文档
-- [**🔧 API 文档**](https://pkg.go.dev/github.com/dolphinnet-labs/dolphinnet) - Go 包文档
+- [**🔧 API 文档**](https://pkg.go.dev/github.com/Dolphinet-labs/Dolphinet) - Go 包文档
 - [**📋 贡献指南**](CONTRIBUTING.md) - 如何参与项目开发
 
 ### 快速链接
@@ -176,9 +176,9 @@ just fmt
 
 ### 寻找任务
 
-- [**🐛 好初学者问题**](https://github.com/dolphinnet-labs/dolphinnet/issues?q=is:open+is:issue+label:D-good-first-issue)
-- [**📝 文档改进**](https://github.com/dolphinnet-labs/dolphinnet/issues?q=is:open+is:issue+label:D-documentation)
-- [**🔧 功能请求**](https://github.com/dolphinnet-labs/dolphinnet/issues?q=is:open+is:issue+label:D-feature-request)
+- [**🐛 好初学者问题**](https://github.com/Dolphinet-labs/Dolphinet/issues?q=is:open+is:issue+label:D-good-first-issue)
+- [**📝 文档改进**](https://github.com/Dolphinet-labs/Dolphinet/issues?q=is:open+is:issue+label:D-documentation)
+- [**🔧 功能请求**](https://github.com/Dolphinet-labs/Dolphinet/issues?q=is:open+is:issue+label:D-feature-request)
 
 ## 🌐 社区
 
@@ -204,7 +204,7 @@ just fmt
 <div align="center">
   <p><strong>由 <a href="https://dolphinnet-labs.com">Dolphinet Labs</a> 构建</strong></p>
   <p>
-    <a href="https://github.com/dolphinnet-labs/dolphinnet">GitHub</a> •
+    <a href="https://github.com/Dolphinet-labs/Dolphinet">GitHub</a> •
     <a href="https://docs.dolphinet.io">文档</a> •
     <a href="https://discord.gg/dolphinet">Discord</a> •
     <a href="https://twitter.com/dolphinet_io">Twitter</a>
